@@ -1,5 +1,5 @@
 # PPT_Controller
-Introducing a seamless way to interact with presentations using intuitive hand gestures:
+#Introducing a seamless way to interact with presentations using intuitive hand gestures:
 1️⃣ Index Finger Drawing: Get hands-on with your slides, making annotations and highlighting key points effortlessly.
 2️⃣ Thumb or Little Finger for Next Slide: Navigate through your presentation with a simple gesture, keeping your flow uninterrupted.
 3️⃣ Index and Middle Finger Pointer: Shine a spotlight on important details with a dynamic circle-shaped pointer, engaging your audience with precision.
